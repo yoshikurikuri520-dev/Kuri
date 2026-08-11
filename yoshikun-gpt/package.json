@@ -1,0 +1,12 @@
+{
+  "name": "yoshikun-gpt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Login-free Yoshikun GPT web chat powered by the OpenAI Responses API.",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
